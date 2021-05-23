@@ -1,5 +1,5 @@
 # KSGAN
-Source code for model KSGAN
+Source code for model KSGAN.
 
 Paper: 
 
