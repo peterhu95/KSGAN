@@ -1,6 +1,7 @@
 # KSGAN
 Source code for model KSGAN
-Paper: Hu, K., Liu, H., & Hao, T. A Knowledge Selective Adversarial Network for Link Prediction in Knowledge Graph. In CCF International Conference on Natural Language Processing and Chinese Computing (pp. 171-183).
+Paper: 
+Hu, K., Liu, H., & Hao, T. A Knowledge Selective Adversarial Network for Link Prediction in Knowledge Graph. In CCF International Conference on Natural Language Processing and Chinese Computing (pp. 171-183).
 
 ## Installation
 Run:
