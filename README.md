@@ -59,7 +59,7 @@ python gan_train.py --config=config_wn18rr.yaml --g_config=TransE --d_config=Com
 python gan_train.py --config=config_wn18rr.yaml --g_config=TransD --d_config=ComplEx
 ```
 
-# Acknowledgements
+## Acknowledgements
 The code is inspired by [KBGAN](https://github.com/cai-lw/KBGAN).
 
 ## Citation
