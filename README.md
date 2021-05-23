@@ -3,7 +3,7 @@ Source code for model KSGAN
 Paper: A Knowledge Selective Adversarial Network for Link Prediction in Knowledge Graph
 
 ## Installation
-run:
+Run:
 `conda env create -f py3torch.yaml`
 to setup anaconda environment including pytorch 0.2.0, numpy, etc.
 
